@@ -1,3 +1,5 @@
+// Challenge description: https://codefights.com/challenge/Q6Ai4nxpRjFx5sYWj/main
+
 public class BinaryPalindrome {
     /*
      * Function: binaryPalindrome

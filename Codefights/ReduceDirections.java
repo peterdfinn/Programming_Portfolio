@@ -1,3 +1,5 @@
+// Challenge description: https://codefights.com/challenge/zALN8MBi5vKKBBb6x/main
+
 public class ReduceDirections {
 
     /*
