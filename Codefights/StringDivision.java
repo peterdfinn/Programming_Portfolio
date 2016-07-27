@@ -5,10 +5,10 @@ public class StringDivision {
     String stringDivision(String s) {
 
 	/*
-	 * The challenge in this challenge is that the input string may be up to
-	 * 35 characters long, which might mean as many as 70 digits, well
-	 * beyond the limits of even an 8-byte number.  I decided to get around
-	 * this problem by storing the number to calculate as an array of bytes
+	 * The challenge in this task is that the input string may be up to 35
+	 * characters long, which might mean as many as 70 digits, well beyond
+	 * the limits of even an 8-byte number.  I decided to get around this
+	 * problem by storing the number to calculate as an array of bytes
 	 * rather than as a single variable.
 	 */
 	
