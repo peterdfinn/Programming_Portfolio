@@ -1,6 +1,6 @@
 // Challenge description: https://codefights.com/challenge/g7QePyA3sLwwgyzRM/main
 
-ublic class CircleGrid {
+public class CircleGrid {
 
     /*
      * Function: circleGrid
