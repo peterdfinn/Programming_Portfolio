@@ -1,6 +1,10 @@
 // Challenge description: https://codefights.com/challenge/ifSxNwEhkPER6hExe/main
 
-std::string stringDivision(std::string s) {
+using namespace std;
+
+#include <string>
+
+string stringDivision(string s) {
 
   /*
    * The challenge in this task is that the input string may be up to 35
@@ -69,7 +73,7 @@ std::string stringDivision(std::string s) {
     answer[digits - 1 - j] = number[j] + 97;
   }
     
-  std::string retVal(answer);
+  string retVal(answer);
   return retVal;
 }
 
